@@ -3,6 +3,7 @@
 Chronos is a full-stack web application that automatically schedules meetings on Google Calendar for large groups. It achieves this by connecting to each participant's Google Calendar, analyzing availability across the group and ranking candidate time slots using a multi-factor scoring algorithm.
 
 **Live App:** [https://chronos-ba69a.web.app/](https://usechronos.live/)
+
 **Alternate Link:** https://chronos-ba69a.web.app/
 
 <p>
